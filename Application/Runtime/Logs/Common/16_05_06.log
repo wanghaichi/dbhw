@@ -1,0 +1,54 @@
+[ 2016-05-06T10:57:23+08:00 ] ::1 /whc_dbhw/Publicbootstrap-3.3.5-dist/css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000368s ]
+ERR: 无法加载模块:Publicbootstrap-3.3.5-dist
+
+[ 2016-05-06T11:38:44+08:00 ] ::1 /whc_dbhw/Public/assets/css/3-col-portfolio.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000371s ]
+ERR: 无法加载模块:Public
+
+[ 2016-05-06T11:38:59+08:00 ] ::1 /whc_dbhw/Public/assets/js/jquery.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000596s ]
+ERR: 无法加载模块:Public
+
+[ 2016-05-06T11:38:59+08:00 ] ::1 /whc_dbhw/Public/assets/css/3-col-portfolio.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000582s ]
+ERR: 无法加载模块:Public
+
+[ 2016-05-06T11:42:36+08:00 ] ::1 /whc_dbhw/Public/assets/js/jquery.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000650s ]
+ERR: 无法加载模块:Public
+
+[ 2016-05-06T11:45:02+08:00 ] ::1 /whc_dbhw/Public/assets/js/jquery.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000642s ]
+ERR: 无法加载模块:Public
+
+[ 2016-05-06T11:56:00+08:00 ] ::1 /whc_dbhw/charts.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000406s ]
+ERR: 无法加载模块:Charts
+
+[ 2016-05-06T14:30:24+08:00 ] ::1 /whc_dbhw/charts.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000359s ]
+ERR: 无法加载模块:Charts
+
+[ 2016-05-06T14:56:33+08:00 ] ::1 /whc_dbhw/blank-page.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000804s ]
+ERR: 无法加载模块:Blank-page
+

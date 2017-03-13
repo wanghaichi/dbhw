@@ -1,0 +1,48 @@
+[ 2016-09-07T20:26:07+08:00 ] 127.0.0.1 /whc_dbhw/index.php/Admin%E3%80%81
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000392s ]
+ERR: 无法加载模块:Admin、
+
+[ 2016-09-07T21:10:54+08:00 ] 127.0.0.1 /whc_dbhw/index.php/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000343s ]
+ERR: 无法加载模块:Index
+
+[ 2016-09-07T23:20:46+08:00 ] 127.0.0.1 /whc_dbhw/index.php/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000556s ]
+ERR: 无法加载模块:Index
+
+[ 2016-09-07T23:38:16+08:00 ] 127.0.0.1 /whc_dbhw/Public/Uploads/Image20160907/57cffa4d3abd0.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000612s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-07T23:38:16+08:00 ] 127.0.0.1 /whc_dbhw/Public/Uploads/Image20160907/57d00ae7d69dd.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000534s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-07T23:38:16+08:00 ] 127.0.0.1 /whc_dbhw/Public/Uploads/Image20160907/57cffa5ec4775.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000654s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-07T23:38:16+08:00 ] 127.0.0.1 /whc_dbhw/Public/Uploads/Image20160907/57cfffe43eb9f.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000534s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-07T23:38:16+08:00 ] 127.0.0.1 /whc_dbhw/Public/Uploads/Image20160907/57d031436501d.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000596s ]
+ERR: 无法加载模块:Public
+

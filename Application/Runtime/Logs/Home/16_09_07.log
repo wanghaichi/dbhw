@@ -1,0 +1,1508 @@
+[ 2016-09-07T11:35:31+08:00 ] 127.0.0.1 /whc_dbhw/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001082s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001043s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001118s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001197s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001264s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009033s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009106s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000749s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000807s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001003s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001047s ]
+
+[ 2016-09-07T19:17:03+08:00 ] 127.0.0.1 /whc_dbhw/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001235s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001106s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000245s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000338s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012274s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012369s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000818s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000873s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001010s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001069s ]
+
+[ 2016-09-07T19:17:42+08:00 ] 127.0.0.1 /whc_dbhw/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000338s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000620s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000670s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000115s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000205s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006797s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006851s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000385s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000418s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000520s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000555s ]
+
+[ 2016-09-07T19:17:58+08:00 ] 127.0.0.1 /whc_dbhw/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000323s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001170s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001270s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000036s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000082s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005657s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005724s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000325s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000356s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000503s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000538s ]
+
+[ 2016-09-07T19:17:59+08:00 ] 127.0.0.1 /whc_dbhw/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000383s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000457s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000512s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000063s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000149s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006393s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006461s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000422s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000469s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000699s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000760s ]
+
+[ 2016-09-07T19:18:00+08:00 ] 127.0.0.1 /whc_dbhw/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000575s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000852s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000933s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000043s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000111s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008133s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008196s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000355s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000395s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000687s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000736s ]
+
+[ 2016-09-07T19:18:05+08:00 ] 127.0.0.1 /whc_dbhw/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000343s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000469s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000515s ]
+SQL: SHOW COLUMNS FROM `stuinfo` [ RunTime:0.0082s ]
+ERR: 1054:Unknown column 'q703007993' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `stuinfo` WHERE ( `sno` = q703007993 ) 
+ERR: 1054:Unknown column 'q703007993' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `stuinfo` WHERE ( `sno` = q703007993 ) 
+
+[ 2016-09-07T19:25:08+08:00 ] 127.0.0.1 /whc_dbhw/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000373s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000716s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000785s ]
+SQL: SHOW COLUMNS FROM `stuinfo` [ RunTime:0.0041s ]
+SQL: SELECT * FROM `stuinfo` WHERE ( `sno` = 3014218099 )  [ RunTime:0.0008s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000075s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000186s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010779s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010888s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000435s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000497s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000659s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000711s ]
+
+[ 2016-09-07T19:25:09+08:00 ] 127.0.0.1 /whc_dbhw/index.php/Home/Class/classList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000486s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000497s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000545s ]
+SQL: SHOW COLUMNS FROM `clas` [ RunTime:0.0036s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `clas` LIMIT 1   [ RunTime:0.0011s ]
+SQL: SELECT * FROM `clas` ORDER BY time DESC LIMIT 0,9   [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000101s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000163s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011624s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011682s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000608s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000695s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000891s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000955s ]
+
+[ 2016-09-07T19:25:14+08:00 ] 127.0.0.1 /whc_dbhw/index.php/Home/Class/myCourse.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000348s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000502s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000549s ]
+SQL: SHOW COLUMNS FROM `clas` [ RunTime:0.0029s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `clas` INNER JOIN  `select` on clas.classs_id = select.classs_id  WHERE ( select.stud_sno = 3014218099 ) LIMIT 1   [ RunTime:0.0013s ]
+SQL: SELECT * FROM `clas` INNER JOIN  `select` on clas.classs_id = select.classs_id  WHERE ( select.stud_sno = 3014218099 ) LIMIT 0,9   [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000058s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000104s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011703s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011763s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000331s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000362s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000530s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000562s ]
+
+[ 2016-09-07T19:25:15+08:00 ] 127.0.0.1 /whc_dbhw/index.php/Home/Class/classList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000353s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000481s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000527s ]
+SQL: SHOW COLUMNS FROM `clas` [ RunTime:0.0037s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `clas` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `clas` ORDER BY time DESC LIMIT 0,9   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000075s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000134s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011083s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011136s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000332s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000368s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000530s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000567s ]
+
+[ 2016-09-07T19:26:23+08:00 ] 127.0.0.1 /whc_dbhw/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000469s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000677s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000738s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000036s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000079s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005931s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005997s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000576s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000638s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000708s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000755s ]
+
+[ 2016-09-07T19:26:28+08:00 ] 127.0.0.1 /whc_dbhw/Home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000348s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000514s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000555s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000049s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000112s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005883s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005937s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000832s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000898s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000841s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000905s ]
+
+[ 2016-09-07T19:26:32+08:00 ] 127.0.0.1 /whc_dbhw/Home/Class
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000326s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000607s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000664s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000057s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000104s ]
+NOTIC: [8] Undefined variable: list D:\data\whc_web\whc_dbhw\Application\Runtime\Cache\Home\c0a410665a331a4f960fe5212fa23bc0.php 第 77 行.
+NOTIC: [8] Undefined variable: page D:\data\whc_web\whc_dbhw\Application\Runtime\Cache\Home\c0a410665a331a4f960fe5212fa23bc0.php 第 132 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010040s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010083s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000362s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000395s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000541s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000575s ]
+
+[ 2016-09-07T19:26:40+08:00 ] 127.0.0.1 /whc_dbhw/Home/Class/classList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000405s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000589s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000646s ]
+SQL: SHOW COLUMNS FROM `clas` [ RunTime:0.0028s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `clas` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `clas` ORDER BY time DESC LIMIT 0,9   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000064s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000118s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011417s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011511s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000374s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000412s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000552s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000589s ]
+
+[ 2016-09-07T19:27:35+08:00 ] 127.0.0.1 /whc_dbhw/index.php/Home/Class/detail/id/4567891110.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000608s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000993s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001090s ]
+SQL: SHOW COLUMNS FROM `clas` [ RunTime:0.0048s ]
+SQL: SELECT * FROM `clas` WHERE ( classs_id = 4567891110 )  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `clas` WHERE ( `tea_name` = '云日天' and `classs_id` <> 4567891110 ) ORDER BY time DESC LIMIT 4   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `select` [ RunTime:0.0033s ]
+SQL: SELECT * FROM `select` WHERE ( classs_id = 4567891110 and stud_sno = 3014218099 )  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000096s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000202s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011574s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011640s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000436s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000479s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000634s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000691s ]
+
+[ 2016-09-07T19:30:43+08:00 ] 127.0.0.1 /whc_dbhw/Home/Class/classList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000315s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000516s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000557s ]
+SQL: SHOW COLUMNS FROM `clas` [ RunTime:0.0092s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `clas` LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `clas` ORDER BY time DESC LIMIT 0,9   [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000059s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000110s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010849s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010921s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000581s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000643s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000814s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000874s ]
+
+[ 2016-09-07T19:31:08+08:00 ] 127.0.0.1 /whc_dbhw/index.php/Home/Class/detail/id/1111111112.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000357s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001255s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001439s ]
+SQL: SHOW COLUMNS FROM `clas` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `clas` WHERE ( classs_id = 1111111112 )  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `clas` WHERE ( `tea_name` = '云日天' and `classs_id` <> 1111111112 ) ORDER BY time DESC LIMIT 4   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `select` [ RunTime:0.0029s ]
+SQL: SELECT * FROM `select` WHERE ( classs_id = 1111111112 and stud_sno = 3014218099 )  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000051s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000096s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007868s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007921s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000344s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000386s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000499s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000533s ]
+
+[ 2016-09-07T19:31:59+08:00 ] 127.0.0.1 /whc_dbhw/index.php/Home/Class/selClas.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000451s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001084s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001171s ]
+SQL: SHOW COLUMNS FROM `clas` [ RunTime:0.0049s ]
+SQL: SHOW COLUMNS FROM `stud` [ RunTime:0.0170s ]
+SQL: SELECT * FROM `clas` WHERE ( classs_id = 1111111112 )  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `stud` WHERE ( `sno` = 3014218099 )  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `select` [ RunTime:0.0063s ]
+SQL: SELECT * FROM `select` WHERE ( stud_sno = 3014218099 and classs_id = 1111111112 )  [ RunTime:0.0003s ]
+SQL: INSERT INTO `select` (`stud_sno`,`classs_id`,`time`) VALUES ('3014218099','1111111112','2016-09-07 19-31-59') [ RunTime:0.0124s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000039s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000109s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008459s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008553s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000927s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000996s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000708s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000749s ]
+
+[ 2016-09-07T19:32:00+08:00 ] 127.0.0.1 /whc_dbhw/index.php/Home/Class/classList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000433s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001229s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001372s ]
+SQL: SHOW COLUMNS FROM `clas` [ RunTime:0.0055s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `clas` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `clas` ORDER BY time DESC LIMIT 0,9   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000063s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000110s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009849s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009910s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000521s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000572s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001226s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001308s ]
+
+[ 2016-09-07T19:32:02+08:00 ] 127.0.0.1 /whc_dbhw/index.php/Home/Class/detail/id/1111111113.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000349s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000539s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000598s ]
+SQL: SHOW COLUMNS FROM `clas` [ RunTime:0.0029s ]
+SQL: SELECT * FROM `clas` WHERE ( classs_id = 1111111113 )  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `clas` WHERE ( `tea_name` = '云日天' and `classs_id` <> 1111111113 ) ORDER BY time DESC LIMIT 4   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `select` [ RunTime:0.0031s ]
+SQL: SELECT * FROM `select` WHERE ( classs_id = 1111111113 and stud_sno = 3014218099 )  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000057s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000108s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009737s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009799s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000404s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000436s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000535s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000569s ]
+
+[ 2016-09-07T19:32:03+08:00 ] 127.0.0.1 /whc_dbhw/index.php/Home/Class/detail/id/1111111112.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000363s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000569s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000617s ]
+SQL: SHOW COLUMNS FROM `clas` [ RunTime:0.0033s ]
+SQL: SELECT * FROM `clas` WHERE ( classs_id = 1111111112 )  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `clas` WHERE ( `tea_name` = '云日天' and `classs_id` <> 1111111112 ) ORDER BY time DESC LIMIT 4   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `select` [ RunTime:0.0027s ]
+SQL: SELECT * FROM `select` WHERE ( classs_id = 1111111112 and stud_sno = 3014218099 )  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000056s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000106s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008465s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008522s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000420s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000457s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000589s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000627s ]
+
+[ 2016-09-07T19:51:24+08:00 ] 127.0.0.1 /whc_dbhw/index.php/Home/Class/detail/id/1111111112.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000537s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000880s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000974s ]
+SQL: SHOW COLUMNS FROM `clas` [ RunTime:0.0052s ]
+SQL: SELECT * FROM `clas` WHERE ( classs_id = 1111111112 )  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `clas` WHERE ( `tea_name` = '云日天' and `classs_id` <> 1111111112 ) ORDER BY time DESC LIMIT 4   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `select` [ RunTime:0.0036s ]
+SQL: SELECT * FROM `select` WHERE ( classs_id = 1111111112 and stud_sno = 3014218099 )  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000064s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000124s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011109s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011173s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000509s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000555s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000761s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000809s ]
+
+[ 2016-09-07T19:51:27+08:00 ] 127.0.0.1 /whc_dbhw/index.php/Home/Class/detail/id/1111111112.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000438s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000632s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000695s ]
+SQL: SHOW COLUMNS FROM `clas` [ RunTime:0.0046s ]
+SQL: SELECT * FROM `clas` WHERE ( classs_id = 1111111112 )  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `clas` WHERE ( `tea_name` = '云日天' and `classs_id` <> 1111111112 ) ORDER BY time DESC LIMIT 4   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `select` [ RunTime:0.0028s ]
+SQL: SELECT * FROM `select` WHERE ( classs_id = 1111111112 and stud_sno = 3014218099 )  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000084s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000165s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009791s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009862s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000775s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000842s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001040s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001110s ]
+
+[ 2016-09-07T19:51:28+08:00 ] 127.0.0.1 /whc_dbhw/index.php/Home/Class/selClas.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000376s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000932s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000996s ]
+SQL: SHOW COLUMNS FROM `clas` [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `stud` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `clas` WHERE ( classs_id = 1111111112 )  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `stud` WHERE ( `sno` = 3014218099 )  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `select` [ RunTime:0.0031s ]
+SQL: SELECT * FROM `select` WHERE ( stud_sno = 3014218099 and classs_id = 1111111112 )  [ RunTime:0.0003s ]
+SQL: INSERT INTO `select` (`stud_sno`,`classs_id`,`time`) VALUES ('3014218099','1111111112','2016-09-07 19-51-28') [ RunTime:0.0019s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000033s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000138s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006207s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006283s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000505s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000540s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001084s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001148s ]
+
+[ 2016-09-07T19:51:29+08:00 ] 127.0.0.1 /whc_dbhw/index.php/Home/Class/classList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000573s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001088s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001211s ]
+SQL: SHOW COLUMNS FROM `clas` [ RunTime:0.0031s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `clas` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `clas` ORDER BY time DESC LIMIT 0,9   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000072s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000138s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014780s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014871s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000876s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000997s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001617s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001742s ]
+
+[ 2016-09-07T19:51:41+08:00 ] 127.0.0.1 /whc_dbhw/index.php/Home/Class/detail/id/1111111112.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000377s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000581s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000623s ]
+SQL: SHOW COLUMNS FROM `clas` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `clas` WHERE ( classs_id = 1111111112 )  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `clas` WHERE ( `tea_name` = '云日天' and `classs_id` <> 1111111112 ) ORDER BY time DESC LIMIT 4   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `select` [ RunTime:0.0027s ]
+SQL: SELECT * FROM `select` WHERE ( classs_id = 1111111112 and stud_sno = 3014218099 )  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000073s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000127s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009346s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009399s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000490s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000526s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000744s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000793s ]
+
+[ 2016-09-07T19:51:43+08:00 ] 127.0.0.1 /whc_dbhw/index.php/Home/Class/detail/id/1111111112.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000594s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001049s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001135s ]
+SQL: SHOW COLUMNS FROM `clas` [ RunTime:0.0032s ]
+SQL: SELECT * FROM `clas` WHERE ( classs_id = 1111111112 )  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `clas` WHERE ( `tea_name` = '云日天' and `classs_id` <> 1111111112 ) ORDER BY time DESC LIMIT 4   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `select` [ RunTime:0.0037s ]
+SQL: SELECT * FROM `select` WHERE ( classs_id = 1111111112 and stud_sno = 3014218099 )  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000058s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000112s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009725s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009792s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000540s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000579s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000782s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000826s ]
+
+[ 2016-09-07T19:51:56+08:00 ] 127.0.0.1 /whc_dbhw/index.php/Home/Class/detail/id/1111111111.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000317s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000665s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000705s ]
+SQL: SHOW COLUMNS FROM `clas` [ RunTime:0.0033s ]
+SQL: SELECT * FROM `clas` WHERE ( classs_id = 1111111111 )  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `clas` WHERE ( `tea_name` = '云日天' and `classs_id` <> 1111111111 ) ORDER BY time DESC LIMIT 4   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `select` [ RunTime:0.0032s ]
+SQL: SELECT * FROM `select` WHERE ( classs_id = 1111111111 and stud_sno = 3014218099 )  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000063s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000120s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010414s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010483s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000865s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000917s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000774s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000827s ]
+
+[ 2016-09-07T19:54:24+08:00 ] 127.0.0.1 /whc_dbhw/index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000404s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000697s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000747s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000038s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000085s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005290s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005338s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000482s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000518s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000673s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000712s ]
+
+[ 2016-09-07T19:54:34+08:00 ] 127.0.0.1 /whc_dbhw/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000326s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000995s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001055s ]
+SQL: SHOW COLUMNS FROM `stuinfo` [ RunTime:0.0028s ]
+SQL: SELECT * FROM `stuinfo` WHERE ( `sno` = 3014218099 )  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000039s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000091s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007073s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007140s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000505s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000540s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000705s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000742s ]
+
+[ 2016-09-07T19:54:35+08:00 ] 127.0.0.1 /whc_dbhw/index.php/Home/Class/classList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000410s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000895s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000974s ]
+SQL: SHOW COLUMNS FROM `clas` [ RunTime:0.0029s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `clas` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `clas` ORDER BY time DESC LIMIT 0,9   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000106s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000189s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013553s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013649s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000938s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001008s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000959s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001013s ]
+
+[ 2016-09-07T20:24:51+08:00 ] 127.0.0.1 /whc_dbhw/index.php/Home/Class/detail/id/1111111113.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000666s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001010s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001110s ]
+SQL: SHOW COLUMNS FROM `clas` [ RunTime:0.0029s ]
+SQL: SELECT * FROM `clas` WHERE ( classs_id = 1111111113 )  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `clas` WHERE ( `tea_name` = '云日天' and `classs_id` <> 1111111113 ) ORDER BY time DESC LIMIT 4   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `select` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `select` WHERE ( classs_id = 1111111113 and stud_sno = 3014218099 )  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000058s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000109s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010365s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010421s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000385s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000418s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000570s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000609s ]
+
+[ 2016-09-07T20:25:03+08:00 ] 127.0.0.1 /whc_dbhw/index.php/Home/Class/selClas.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000394s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000522s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000564s ]
+SQL: SHOW COLUMNS FROM `clas` [ RunTime:0.0030s ]
+SQL: SHOW COLUMNS FROM `stud` [ RunTime:0.0028s ]
+SQL: SELECT * FROM `clas` WHERE ( classs_id = 1111111113 )  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `stud` WHERE ( `sno` = 3014218099 )  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `select` [ RunTime:0.0032s ]
+SQL: SELECT * FROM `select` WHERE ( stud_sno = 3014218099 and classs_id = 1111111113 )  [ RunTime:0.0003s ]
+SQL: INSERT INTO `select` (`stud_sno`,`classs_id`,`time`) VALUES ('3014218099','1111111113','2016-09-07 20-25-03') [ RunTime:0.0025s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000068s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000185s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008278s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008352s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000380s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000416s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000804s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000854s ]
+
+[ 2016-09-07T20:25:04+08:00 ] 127.0.0.1 /whc_dbhw/index.php/Home/Class/classList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000621s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001153s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001281s ]
+SQL: SHOW COLUMNS FROM `clas` [ RunTime:0.0030s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `clas` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `clas` ORDER BY time DESC LIMIT 0,9   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000095s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000173s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012803s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012889s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000649s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000714s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000930s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001004s ]
+
+[ 2016-09-07T20:25:11+08:00 ] 127.0.0.1 /whc_dbhw/index.php/Home/Class/detail/id/7777777777.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000325s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000517s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000560s ]
+SQL: SHOW COLUMNS FROM `clas` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `clas` WHERE ( classs_id = 7777777777 )  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `clas` WHERE ( `tea_name` = '云日天' and `classs_id` <> 7777777777 ) ORDER BY time DESC LIMIT 4   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `select` [ RunTime:0.0034s ]
+SQL: SELECT * FROM `select` WHERE ( classs_id = 7777777777 and stud_sno = 3014218099 )  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000059s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000109s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008696s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008749s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000365s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000397s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000518s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000552s ]
+
+[ 2016-09-07T20:25:13+08:00 ] 127.0.0.1 /whc_dbhw/index.php/Home/Class/detail/id/1111111113.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000357s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000512s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000554s ]
+SQL: SHOW COLUMNS FROM `clas` [ RunTime:0.0035s ]
+SQL: SELECT * FROM `clas` WHERE ( classs_id = 1111111113 )  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `clas` WHERE ( `tea_name` = '云日天' and `classs_id` <> 1111111113 ) ORDER BY time DESC LIMIT 4   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `select` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `select` WHERE ( classs_id = 1111111113 and stud_sno = 3014218099 )  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000056s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000105s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008768s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008818s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000545s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000606s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000603s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000640s ]
+
+[ 2016-09-07T20:43:14+08:00 ] 127.0.0.1 /whc_dbhw/index.php/Home/Class/detail/id/1111111113.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000398s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000549s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000591s ]
+SQL: SHOW COLUMNS FROM `clas` [ RunTime:0.0031s ]
+SQL: SELECT * FROM `clas` WHERE ( classs_id = 1111111113 )  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `clas` WHERE ( `tea_name` = '云日天' and `classs_id` <> 1111111113 ) ORDER BY time DESC LIMIT 4   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `select` [ RunTime:0.0031s ]
+SQL: SELECT * FROM `select` WHERE ( classs_id = 1111111113 and stud_sno = 3014218099 )  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000058s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000105s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008319s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008378s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000379s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000417s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000559s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000598s ]
+
+[ 2016-09-07T20:43:16+08:00 ] 127.0.0.1 /whc_dbhw/index.php/Home/Class/detail/id/5555555555.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000405s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001423s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001512s ]
+SQL: SHOW COLUMNS FROM `clas` [ RunTime:0.0049s ]
+SQL: SELECT * FROM `clas` WHERE ( classs_id = 5555555555 )  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `clas` WHERE ( `tea_name` = '云日天' and `classs_id` <> 5555555555 ) ORDER BY time DESC LIMIT 4   [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `select` [ RunTime:0.0036s ]
+SQL: SELECT * FROM `select` WHERE ( classs_id = 5555555555 and stud_sno = 3014218099 )  [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000082s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000152s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011462s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011536s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000391s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000429s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000559s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000603s ]
+
+[ 2016-09-07T20:43:17+08:00 ] 127.0.0.1 /whc_dbhw/index.php/Home/Class/selClas.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000371s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000711s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000775s ]
+SQL: SHOW COLUMNS FROM `clas` [ RunTime:0.0032s ]
+SQL: SHOW COLUMNS FROM `stud` [ RunTime:0.0031s ]
+SQL: SELECT * FROM `clas` WHERE ( classs_id = 5555555555 )  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `stud` WHERE ( `sno` = 3014218099 )  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000037s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000108s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006103s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006154s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000364s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000404s ]
+
+[ 2016-09-07T20:44:34+08:00 ] 127.0.0.1 /whc_dbhw/index.php/Home/Class/detail/id/5555555555.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000547s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000571s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000619s ]
+SQL: SHOW COLUMNS FROM `clas` [ RunTime:0.0033s ]
+SQL: SELECT * FROM `clas` WHERE ( classs_id = 5555555555 )  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `clas` WHERE ( `tea_name` = '云日天' and `classs_id` <> 5555555555 ) ORDER BY time DESC LIMIT 4   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `select` [ RunTime:0.0033s ]
+SQL: SELECT * FROM `select` WHERE ( classs_id = 5555555555 and stud_sno = 3014218099 )  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000059s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000123s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009167s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009267s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000517s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000559s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000697s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000743s ]
+
+[ 2016-09-07T20:44:37+08:00 ] 127.0.0.1 /whc_dbhw/index.php/Home/Class/detail/id/1111111111.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000524s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000750s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000817s ]
+SQL: SHOW COLUMNS FROM `clas` [ RunTime:0.0044s ]
+SQL: SELECT * FROM `clas` WHERE ( classs_id = 1111111111 )  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `clas` WHERE ( `tea_name` = '云日天' and `classs_id` <> 1111111111 ) ORDER BY time DESC LIMIT 4   [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `select` [ RunTime:0.0034s ]
+SQL: SELECT * FROM `select` WHERE ( classs_id = 1111111111 and stud_sno = 3014218099 )  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000091s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000173s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012886s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012975s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000504s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000566s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000756s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000812s ]
+
+[ 2016-09-07T20:44:38+08:00 ] 127.0.0.1 /whc_dbhw/index.php/Home/Class/selClas.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000359s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000544s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000605s ]
+SQL: SHOW COLUMNS FROM `clas` [ RunTime:0.0031s ]
+SQL: SHOW COLUMNS FROM `stud` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `clas` WHERE ( classs_id = 1111111111 )  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `stud` WHERE ( `sno` = 3014218099 )  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `select` [ RunTime:0.0029s ]
+SQL: SELECT * FROM `select` WHERE ( stud_sno = 3014218099 and classs_id = 1111111111 )  [ RunTime:0.0003s ]
+SQL: INSERT INTO `select` (`stud_sno`,`classs_id`,`time`) VALUES ('3014218099','1111111111','2016-09-07 20-44-38') [ RunTime:0.0021s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000065s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000214s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006768s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006853s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000343s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000378s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000547s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000583s ]
+
+[ 2016-09-07T20:44:39+08:00 ] 127.0.0.1 /whc_dbhw/index.php/Home/Class/classList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001136s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001091s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001239s ]
+SQL: SHOW COLUMNS FROM `clas` [ RunTime:0.0033s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `clas` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `clas` ORDER BY time DESC LIMIT 0,9   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000071s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000136s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012402s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012460s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000428s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000481s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000774s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000829s ]
+
+[ 2016-09-07T21:10:58+08:00 ] 127.0.0.1 /whc_dbhw/index.php/Home/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000378s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000537s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000580s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000037s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000080s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005271s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005321s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000476s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000519s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001063s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001120s ]
+
+[ 2016-09-07T21:12:30+08:00 ] 127.0.0.1 /whc_dbhw/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000607s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000582s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000646s ]
+SQL: SHOW COLUMNS FROM `stuinfo` [ RunTime:0.0044s ]
+SQL: SELECT * FROM `stuinfo` WHERE ( `sno` = 3014218099 )  [ RunTime:0.0007s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000094s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000206s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009283s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009376s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000540s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000602s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000973s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001039s ]
+
+[ 2016-09-07T21:12:31+08:00 ] 127.0.0.1 /whc_dbhw/index.php/Home/Class/classList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000317s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000473s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000516s ]
+SQL: SHOW COLUMNS FROM `clas` [ RunTime:0.0047s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `clas` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `clas` ORDER BY time DESC LIMIT 0,9   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000065s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000113s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009748s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009802s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000351s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000387s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000530s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000568s ]
+
+[ 2016-09-07T21:16:14+08:00 ] 127.0.0.1 /whc_dbhw/index.php/Home/Class/detail/id/7777777777.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000401s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001131s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001235s ]
+SQL: SHOW COLUMNS FROM `clas` [ RunTime:0.0038s ]
+SQL: SELECT * FROM `clas` WHERE ( classs_id = 7777777777 )  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `clas` WHERE ( `tea_name` = '云日天' and `classs_id` <> 7777777777 ) ORDER BY time DESC LIMIT 4   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `select` [ RunTime:0.0031s ]
+SQL: SELECT * FROM `select` WHERE ( classs_id = 7777777777 and stud_sno = 3014218099 )  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000059s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000112s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008998s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009064s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000561s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000598s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000672s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000712s ]
+
+[ 2016-09-07T21:16:18+08:00 ] 127.0.0.1 /whc_dbhw/index.php/Home/Class/detail/id/1111111113.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000372s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000614s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000655s ]
+SQL: SHOW COLUMNS FROM `clas` [ RunTime:0.0051s ]
+SQL: SELECT * FROM `clas` WHERE ( classs_id = 1111111113 )  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `clas` WHERE ( `tea_name` = '云日天' and `classs_id` <> 1111111113 ) ORDER BY time DESC LIMIT 4   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `select` [ RunTime:0.0031s ]
+SQL: SELECT * FROM `select` WHERE ( classs_id = 1111111113 and stud_sno = 3014218099 )  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000101s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000155s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008074s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008124s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000517s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000555s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000790s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000842s ]
+
+[ 2016-09-07T21:16:20+08:00 ] 127.0.0.1 /whc_dbhw/index.php/Home/Class/detail/id/1111111111.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000313s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000606s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000648s ]
+SQL: SHOW COLUMNS FROM `clas` [ RunTime:0.0035s ]
+SQL: SELECT * FROM `clas` WHERE ( classs_id = 1111111111 )  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `clas` WHERE ( `tea_name` = '云日天' and `classs_id` <> 1111111111 ) ORDER BY time DESC LIMIT 4   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `select` [ RunTime:0.0029s ]
+SQL: SELECT * FROM `select` WHERE ( classs_id = 1111111111 and stud_sno = 3014218099 )  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000094s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000195s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008406s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008465s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000474s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000506s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000616s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000653s ]
+
+[ 2016-09-07T21:16:22+08:00 ] 127.0.0.1 /whc_dbhw/index.php/Home/Class/detail/id/1111111112.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000354s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000668s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000716s ]
+SQL: SHOW COLUMNS FROM `clas` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `clas` WHERE ( classs_id = 1111111112 )  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `clas` WHERE ( `tea_name` = '云日天' and `classs_id` <> 1111111112 ) ORDER BY time DESC LIMIT 4   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `select` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `select` WHERE ( classs_id = 1111111112 and stud_sno = 3014218099 )  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000053s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000113s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007890s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007941s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000472s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000505s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000646s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000681s ]
+
+[ 2016-09-07T21:17:58+08:00 ] 127.0.0.1 /whc_dbhw/index.php/Home/Class/detail/id/1111111113.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000672s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001312s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001395s ]
+SQL: SHOW COLUMNS FROM `clas` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `clas` WHERE ( classs_id = 1111111113 )  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `clas` WHERE ( `tea_name` = '云日天' and `classs_id` <> 1111111113 ) ORDER BY time DESC LIMIT 4   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `select` [ RunTime:0.0047s ]
+SQL: SELECT * FROM `select` WHERE ( classs_id = 1111111113 and stud_sno = 3014218099 )  [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000063s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000121s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011112s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011185s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000541s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000581s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000716s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000770s ]
+
+[ 2016-09-07T21:18:49+08:00 ] 127.0.0.1 /whc_dbhw/index.php/Home/Class/myCourse.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000389s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000631s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000676s ]
+SQL: SHOW COLUMNS FROM `clas` [ RunTime:0.0029s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `clas` INNER JOIN  `select` on clas.classs_id = select.classs_id  WHERE ( select.stud_sno = 3014218099 ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `clas` INNER JOIN  `select` on clas.classs_id = select.classs_id  WHERE ( select.stud_sno = 3014218099 ) LIMIT 0,9   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000065s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000116s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010942s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010994s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000511s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000555s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000713s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000751s ]
+
+[ 2016-09-07T23:20:49+08:00 ] 127.0.0.1 /whc_dbhw/index.php/HOme
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000346s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000542s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000586s ]
+ERR: 无法加载控制器:Index
+
+[ 2016-09-07T23:20:53+08:00 ] 127.0.0.1 /whc_dbhw/index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000386s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000505s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000546s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000142s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000192s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006096s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006165s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000349s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000382s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000600s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000644s ]
+
+[ 2016-09-07T23:21:42+08:00 ] 127.0.0.1 /whc_dbhw/index.php/Home/Class/classLIst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000339s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000546s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000593s ]
+SQL: SHOW COLUMNS FROM `clas` [ RunTime:0.0031s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `clas` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `clas` ORDER BY time DESC LIMIT 0,9   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000061s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000112s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010616s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010687s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000638s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000685s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000885s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000946s ]
+
+[ 2016-09-07T23:21:45+08:00 ] 127.0.0.1 /whc_dbhw/index.php/Home/Class/classList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000370s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000618s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000663s ]
+SQL: SHOW COLUMNS FROM `clas` [ RunTime:0.0031s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `clas` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `clas` ORDER BY time DESC LIMIT 0,9   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000124s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000179s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010170s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010236s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000473s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000510s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000791s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000858s ]
+
+[ 2016-09-07T23:22:20+08:00 ] 127.0.0.1 /whc_dbhw/index.php/Home/Class/detail/id/1111111113.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000460s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000830s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000917s ]
+SQL: SHOW COLUMNS FROM `clas` [ RunTime:0.0043s ]
+SQL: SELECT * FROM `clas` WHERE ( classs_id = 1111111113 )  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `clas` WHERE ( `tea_name` = '云日天' and `classs_id` <> 1111111113 ) ORDER BY time DESC LIMIT 4   [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `select` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `select` WHERE ( classs_id = 1111111113 and stud_sno = 3014218099 )  [ RunTime:0.0007s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000095s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000181s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011259s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011333s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000726s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000787s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000982s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001046s ]
+
+[ 2016-09-07T23:23:49+08:00 ] 127.0.0.1 /whc_dbhw/index.php/HOme
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000339s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000681s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000734s ]
+ERR: 无法加载控制器:Index
+
+[ 2016-09-07T23:31:42+08:00 ] 127.0.0.1 /whc_dbhw/index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000358s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000582s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000636s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000066s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000159s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006843s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006907s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000460s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000495s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000630s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000667s ]
+
+[ 2016-09-07T23:35:00+08:00 ] 127.0.0.1 /whc_dbhw/index.php/Home/Class/classList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000552s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001170s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001280s ]
+SQL: SHOW COLUMNS FROM `clas` [ RunTime:0.0036s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `clas` LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT * FROM `clas` ORDER BY time DESC LIMIT 0,9   [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000071s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000132s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016053s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016188s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000811s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000865s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000682s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000725s ]
+
+[ 2016-09-07T23:35:25+08:00 ] 127.0.0.1 /whc_dbhw/index.php/Home/Class/detail/id/5555555555.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000432s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000661s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000710s ]
+SQL: SHOW COLUMNS FROM `clas` [ RunTime:0.0046s ]
+SQL: SELECT * FROM `clas` WHERE ( classs_id = 5555555555 )  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `clas` WHERE ( `tea_name` = '云日天' and `classs_id` <> 5555555555 ) ORDER BY time DESC LIMIT 4   [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `select` [ RunTime:0.0044s ]
+SQL: SELECT * FROM `select` WHERE ( classs_id = 5555555555 and stud_sno = 3014218099 )  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000104s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000190s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012572s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012659s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000700s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000764s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000978s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001042s ]
+
+[ 2016-09-07T23:35:40+08:00 ] 127.0.0.1 /whc_dbhw/index.php/Home/Class/detail/id/5555555555.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000540s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000618s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000662s ]
+SQL: SHOW COLUMNS FROM `clas` [ RunTime:0.0034s ]
+SQL: SELECT * FROM `clas` WHERE ( classs_id = 5555555555 )  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `clas` WHERE ( `tea_name` = '云日天' and `classs_id` <> 5555555555 ) ORDER BY time DESC LIMIT 4   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `select` [ RunTime:0.0027s ]
+SQL: SELECT * FROM `select` WHERE ( classs_id = 5555555555 and stud_sno = 3014218099 )  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000062s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000120s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007723s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007770s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000478s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000509s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000605s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000698s ]
+
+[ 2016-09-07T23:38:02+08:00 ] 127.0.0.1 /whc_dbhw/index.php/Home/Class/detail/id/5555555555.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000387s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000661s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000701s ]
+SQL: SHOW COLUMNS FROM `clas` [ RunTime:0.0034s ]
+SQL: SELECT * FROM `clas` WHERE ( classs_id = 5555555555 )  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `clas` WHERE ( `tea_name` = '云日天' and `classs_id` <> 5555555555 ) ORDER BY time DESC LIMIT 4   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `select` [ RunTime:0.0031s ]
+SQL: SELECT * FROM `select` WHERE ( classs_id = 5555555555 and stud_sno = 3014218099 )  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000070s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000125s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008521s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008588s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000460s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000491s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000595s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000629s ]
+
+[ 2016-09-07T23:38:16+08:00 ] 127.0.0.1 /whc_dbhw/index.php/Home/Class/detail/id/5555555555.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000418s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000525s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000567s ]
+SQL: SHOW COLUMNS FROM `clas` [ RunTime:0.0033s ]
+SQL: SELECT * FROM `clas` WHERE ( classs_id = 5555555555 )  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `clas` WHERE ( `tea_name` = '云日天' and `classs_id` <> 5555555555 ) ORDER BY time DESC LIMIT 4   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `select` [ RunTime:0.0027s ]
+SQL: SELECT * FROM `select` WHERE ( classs_id = 5555555555 and stud_sno = 3014218099 )  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000085s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000134s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008307s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008359s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000353s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000388s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000552s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000592s ]
+
+[ 2016-09-07T23:38:46+08:00 ] 127.0.0.1 /whc_dbhw/index.php/Home/Class/detail/id/5555555555.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000605s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001512s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001607s ]
+SQL: SHOW COLUMNS FROM `clas` [ RunTime:0.0037s ]
+SQL: SELECT * FROM `clas` WHERE ( classs_id = 5555555555 )  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `clas` WHERE ( `tea_name` = '云日天' and `classs_id` <> 5555555555 ) ORDER BY time DESC LIMIT 4   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `select` [ RunTime:0.0031s ]
+SQL: SELECT * FROM `select` WHERE ( classs_id = 5555555555 and stud_sno = 3014218099 )  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000059s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000123s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009354s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009417s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000506s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000544s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000673s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000724s ]
+

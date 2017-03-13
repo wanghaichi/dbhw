@@ -1,0 +1,48 @@
+[ 2016-05-20T20:46:14+08:00 ] ::1 /whc_dbhw/index.php/Class
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000470s ]
+ERR: 无法加载模块:Class
+
+[ 2016-05-20T21:36:37+08:00 ] ::1 /whc_dbhw/Public/bootstrap/css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000476s ]
+ERR: 无法加载模块:Public
+
+[ 2016-05-20T21:36:37+08:00 ] ::1 /whc_dbhw/Public/css/log-in.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000693s ]
+ERR: 无法加载模块:Public
+
+[ 2016-05-20T21:36:37+08:00 ] ::1 /whc_dbhw/Public/dist/css/AdminLTE.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000885s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001357s ]
+ERR: 无法加载模块:Public
+
+[ 2016-05-20T21:37:07+08:00 ] ::1 /whc_dbhw/Public/assets/bootstrap/css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000476s ]
+ERR: 无法加载模块:Public
+
+[ 2016-05-20T21:37:07+08:00 ] ::1 /whc_dbhw/Public/css/log-in.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000477s ]
+ERR: 无法加载模块:Public
+
+[ 2016-05-20T21:37:07+08:00 ] ::1 /whc_dbhw/Public/dist/css/AdminLTE.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000767s ]
+ERR: 无法加载模块:Public
+
+[ 2016-05-20T21:53:46+08:00 ] ::1 /whc_dbhw/index.php/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000389s ]
+ERR: 无法加载模块:Login
+
